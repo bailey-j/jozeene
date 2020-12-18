@@ -32,5 +32,5 @@ module.exports = {
       },
     },
   ],
-  pathPrefix: '/jozeenebailey.github.io',
+  pathPrefix: '/jozeene',
 };
